@@ -1,2 +1,4 @@
 # book-practical-fp-in-scala
-Practical FP in Scala
+
+- Examples https://github.com/gvolpe/pfps-examples
+- Standalone app: https://github.com/gvolpe/pfps-shopping-cart
